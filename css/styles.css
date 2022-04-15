@@ -1,0 +1,162 @@
+div.top-container {
+    background-color: #E3FDFD;
+    position: relative;
+
+}
+
+body {
+    margin: 0 auto 0 auto;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #247881;
+   border-width: 5px;
+   width: 5%;
+}
+
+h1 {
+    color: #3A3845;
+    font-size: 5rem;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-weight: normal;
+    color: #3A3845;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+div.middle-container {
+    background-color: #CBF1F5;
+}
+
+div.bottom-container {
+    background-color: #A6E3E9;
+    padding: 50px 0 20px;
+}
+
+.dork {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: relative;
+    right: 160px;
+    bottom: 300px;
+    height: 100px;
+    width: 100px;
+}
+
+.top-cloud {
+    position: relative;
+    left: 250px;
+    height: 100px;
+    width: 100px;
+}
+
+.pfp {
+    border-radius: 50%;
+    width:15%;
+}
+
+.chemistry {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.python {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.att {
+    margin: 0;
+    left: 270px;
+    font-size: 10px;
+    text-align: center;
+}
+
+
+.bioinformatics {
+    position: relative;
+    right: 50px;
+    height: 400px;
+    width: 400px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.btn {
+    position: relative;
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  top: 20px;
+}
+
+.btn:hover {
+  background:  #30e3cb;
+  background-image: -webkit-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom,  #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.footer-link {
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    bottom: 20px;
+    margin: 10px 20px;
+    color: #006778;
+}
+
+.contact-me {
+    padding: 50px;
+}
+
+.copyright {
+    color: #EaF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
